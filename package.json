@@ -2,7 +2,7 @@
   "name": "busybar-brewpilot",
   "private": true,
   "version": "0.1.0",
-  "description": "BrewPilot",
+  "description": "Scale three coffee recipes by dose, then follow timed pours and cumulative water targets.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {

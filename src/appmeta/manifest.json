@@ -4,6 +4,6 @@
   "name": "BrewPilot",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "BrewPilot",
+  "description": "Scale three coffee recipes by dose, then follow timed pours and cumulative water targets.",
   "author": "ncoooooper"
 }
