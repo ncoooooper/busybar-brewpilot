@@ -4,6 +4,20 @@ Scale three coffee recipes by dose, then follow timed pours and cumulative water
 
 Leave the bar beside the scale and read the target for the current pour. Water targets are cumulative, so the number on the back is the weight you want the scale to reach. There is no subtraction to do with the kettle in your hand.
 
+## Screen transitions
+
+Watch the brewer and dose give way to the first pour. The brew time sits below the changing label.
+
+![BrewPilot front display. Watch the brewer and dose give way to the first pour. The brew time sits below the changing label.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![BrewPilot rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Pick the brewer and set the dose
 
 1. Turn the wheel to choose V60, French press or AeroPress. The front shows a water estimate alongside the recipe.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. The front display is enlarged 9× and the end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The last frame pauses for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)

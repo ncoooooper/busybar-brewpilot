@@ -1,0 +1,48 @@
+{
+  "app": "busybar-brewpilot",
+  "sha256": "92f5d89dee53a442f17be88e3b74c2cb2b7e9fb6361fc4e8f12241b3417ac4d6",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "select-recipe-and-dose",
+        "begin-the-bloom"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up",
+          "ok",
+          "up"
+        ],
+        [
+          "ok"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        19,
+        11,
+        41
+      ],
+      "rear_frames": 27,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}
